@@ -32,13 +32,6 @@ Each model-text pair is contained within its own sub-folder.
 - `description.txt`: The textual description of the process.
 - `changes.json`: JSON schema documenting changes introduced for experimentation.
 
-### Selection Criteria
-
-- Models must compile without errors using the bpmn.io VS Code plugin.
-- Must be syntactically correct according to BPMN 2.0 standards.
-- Must include swim lanes to capture organizational changes.
-- Excludes multi-language artifacts for consistency.
-
 ### Business Process Change Classification Framework
 
 **Business Process Change Dimensions**:
