@@ -4,6 +4,9 @@
 
 This repository contains a curated dataset designed for the empirical validation of business process coherence checking using Large Language Models (LLMs). The dataset aims to test the effectiveness and robustness of LLMs in identifying and verifying the coherence across multi-level business process documentation.
 
+This dataset was used for the empirical validation of a software prototype that was developed in a related scientific paper. An in-depth description of the Business Process Change Classification Framework employed can be found here: 
+https://github.com/viadee/process-document-coherence-checker/blob/main/Section%20C%20-%20Interviews%20and%20Framework%20-%20aProCheCk%20Appendix.pdf
+
 ## Dataset Structure
 
 The dataset consists of 12 model-text pairs, sourced equally from two major BPM repositories. Each pair includes a BPMN model enriched with textual descriptions, organized as follows:
